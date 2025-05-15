@@ -9,3 +9,4 @@ Re-arrange or delete Recent Items. Does not work on apps that don't show recent 
 # note: you should make your changes WITH the target application QUIT
 
 ![App Exposé goes from 3 recent items to 1. (via deletion)](recents.png)
+
