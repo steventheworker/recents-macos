@@ -4,9 +4,9 @@ Re-arrange or delete Recent Items. Does not work on apps that don't show recent 
 
 **Permissions:** requires "Full Disk Access" to access recents file(s)
 
-### protip: @ end of Settings -> Control Center, you can increase up to 50 recent items
+### Protip: @ end of Settings -> Control Center, you can increase up to 50 recent items
 
-# note: you should make your changes WITH the target application QUIT
+# note: in most cases you need to quit the (target) application in order for changes to persist
 
 ![App Exposé goes from 3 recent items to 1. (via deletion)](preview.png)
 
